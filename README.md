@@ -1,7 +1,7 @@
 # Kali-Rescue-Toolkit
-Auto-detects common post-update issues
-Fixes:
-Wi-Fi firmware missing
-NVIDIA driver mismatch
-Broken network manager
-Monitor mode not working
+Auto-detects common post-update issues <br/>
+Fixes: <br/>
+Wi-Fi firmware missing <br/>
+NVIDIA driver mismatch <br/>
+Broken network manager <br/>
+Monitor mode not working <br/>

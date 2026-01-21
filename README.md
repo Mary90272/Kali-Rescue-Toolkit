@@ -7,22 +7,22 @@ Broken network manager <br/>
 Monitor mode not working <br/>
 
 Folder struction <br/> 
-kali-rescue-toolkit/
-├── README.md
-├── install.sh
-├── kali-rescue
-├── lib/
-│   ├── common.sh
-│   ├── detect_wifi.sh
-│   ├── fix_wifi.sh
-│   ├── detect_networkmanager.sh
-│   ├── fix_networkmanager.sh
-│   ├── detect_monitor_mode.sh
-│   ├── fix_monitor_mode.sh
-│   ├── detect_nvidia.sh
-│   └── fix_nvidia.sh
-└── logs/
-    └── .gitkeep
+kali-rescue-toolkit/ <br/>
+├── README.md <br/>
+├── install.sh <br/>
+├── kali-rescue <br/>
+├── lib/ <br/>
+│   ├── common.sh <br/>
+│   ├── detect_wifi.sh <br/>
+│   ├── fix_wifi.sh <br/>
+│   ├── detect_networkmanager.sh <br/>
+│   ├── fix_networkmanager.sh <br/>
+│   ├── detect_monitor_mode.sh <br/>
+│   ├── fix_monitor_mode.sh <br/>
+│   ├── detect_nvidia.sh <br/>
+│   └── fix_nvidia.sh <br/>
+└── logs/ <br/>
+    └── .gitkeep <br/>
 
 MVP commands
 

@@ -6,6 +6,7 @@ NVIDIA driver mismatch <br/>
 Broken network manager <br/>
 Monitor mode not working <br/>
 
+
 Folder struction <br/> 
 kali-rescue-toolkit/ <br/>
 ├── README.md <br/>
@@ -36,4 +37,7 @@ MVP commands
 
 ./kali-rescue fix nvidia
 
-    
+Disclaimer<br/>
+
+Use only on systems you own or have explicit permission to administer.
+This toolkit focuses on stability/troubleshooting, not exploitation.
